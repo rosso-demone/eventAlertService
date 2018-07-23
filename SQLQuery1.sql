@@ -1,0 +1,2 @@
+﻿SELECT EventId FROM Events WHERE DATEDIFF(mi,GETDATE(),EventTime)<60;
+SELECT * FROM Events;

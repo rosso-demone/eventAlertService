@@ -1,0 +1,1 @@
+﻿SELECT * FROM EventSubscribers WHERE EventID = 2;
